@@ -1,2 +1,2 @@
-# CodSoft
-Internship tasks:- Simple Calculator, To-Do List, Password generator
+Basic Python Projects
+Simple Calculator, To-Do List, Password generator
